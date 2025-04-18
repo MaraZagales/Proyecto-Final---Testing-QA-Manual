@@ -1,2 +1,3 @@
-# Proyecto-Final---Testing-QA-Manual
+# ProyectoFinal - Testing QA Manual
 Proyecto final de curso Testing Manual - CoderHouse
+
